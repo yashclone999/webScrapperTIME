@@ -45,10 +45,7 @@ router.get('/',  async (req, res, next) => {
     try {
         const fetch = await axios({
             method: "get",
-            url: baseURL,
-            headers: {
-                'Content-Type': 'application/json'
-            }
+            url: baseURL
         });
 
         //HTML data in string format
