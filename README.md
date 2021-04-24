@@ -2,7 +2,7 @@
 Gets 5 latest news links from TIME news, https://time.com/
 
 # Prerequisites
-npm, node installed on your computer
+You need "npm", "node" installed on your computer
 
 ## Installing node and npm for Ubuntu
 1. curl -fsSL https://deb.nodesource.com/setup_15.x | sudo -E bash -
